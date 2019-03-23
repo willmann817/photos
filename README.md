@@ -1,1 +1,1 @@
-Set of that are used for personal web development projects.
+Set of images that are used for personal web development projects.
